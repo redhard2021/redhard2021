@@ -1,10 +1,10 @@
-<h1>Hi there! Im Nicolas...</h1>
+<h1>Hi there!</h1>
 <tr>
 
   ![](https://komarev.com/ghpvc/?username=redhard2021)
 
-<h3>I'm a software developer, now living in Buenos Aires, Argentina!</h3>
-<h4>Have experience on web development and video-game development,<br> below you can see all the technologies with which I have worked:<h4>
+<h3>I'm a software developer, now living in Buenos Aires - Argentina!</h3>
+<h4>I have experience in web development and video game development,<br> here you can see all the technologies with which I have worked:<h4>
 
 <h2>Programming Languages:</h2> 
 <div style="display:inline;">
