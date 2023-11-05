@@ -11,13 +11,13 @@
   <img width="90px" height="100px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/c%23.svg"></img>
   <img width="90px" height="100px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/typescript.svg"></img>
   <img width="90px" height="100px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/javascript.svg"></img>
-  <img width="80px" height="85px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/tools/unity.png"></img>
 </div>
 <h2>Frameworks:</h2> 
 <div style="display:inline;">
   <img width="90px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/angular.svg"></img>
   <img width="90px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg"></img>
-  <img width="550px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/vuejs.svg"></img>
+  <img width="90px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/vuejs.svg"></img>
+  <img width="80px" height="85px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/tools/unity.png"></img>
 </div>
 
 <h2>DataBases:</h2>
