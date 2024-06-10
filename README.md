@@ -9,9 +9,9 @@
 <h2>Programming Languages:</h2> 
 <div style="display:inline;">
   <img width="90px" height="100px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/c++.svg"></img>
-  <img width="90px" height="100px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/go.svg"></img>
   <img width="90px" height="100px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/c.svg"></img>
   <img width="90px" height="100px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/c%23.svg"></img>
+  <img width="90px" height="100px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/go.svg"></img>
 </div>
 <h2>Frameworks:</h2> 
 <div style="display:inline;">
