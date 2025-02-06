@@ -13,9 +13,11 @@
   <img width="90px" height="100px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/c%23.svg"></img>
   <img width="90px" height="100px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/go.svg"></img>
 </div>
-<h2>Frameworks:</h2> 
+<h2>Frameworks and Game Engines:</h2> 
 <div style="display:inline;">
   <img width="90px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg"></img>
+  <img width="90px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/tools/unreal-engine.svg"></img>
+  <img width="90px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/tools/unity.png"></img>
 </div>
 
 <h2>DataBases:</h2>
